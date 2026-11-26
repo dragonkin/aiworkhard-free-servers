@@ -1,10 +1,10 @@
-# Free
+# Free Servers / VPS
 
->  · curated by **AI很忙 (AI Hustle)**.
+> Free / permanent VPS hosting picks · curated by **AI很忙 (AI Hustle)**.
 > Full multi-category list: [aiworkhard-free-resources](https://github.com/dragonkin/aiworkhard-free-resources)
 > Live site: **[AI很忙](https://www.aiworkhard.com/)** · **25** entries
 
-### Free (25)
+### Free Servers / VPS (25)
 
 - [ASC Computer Solutions 加拿大免费 VPS：1核512M/16GB/IPv6·每30天免费续 · 现售罄等补货](https://www.aiworkhard.com/a/162) `已核实 · 售罄（等补货）` — 加拿大 ASC Computer Solutions（ASCS，阿尔伯塔 Onoway，自建硬件）的免费档容器：1核/512MB/16GB SSD/公网 IPv6。每 30 天一周…
 - [DataOnline 越南免费主机：1GB 套餐 0 元，长期免费但要续期](https://www.aiworkhard.com/a/144) `已核实 · 需定期续期` — 越南主机商 DataOnline 的 Free Hosting 1GB：1GB NVMe 磁盘、每月 20GB 流量、2 个域名、2 个数据库，0 元，DirectAdmin 面板…
