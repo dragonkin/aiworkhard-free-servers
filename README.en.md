@@ -2,12 +2,11 @@
 
 >  · curated by **AI很忙 (AI Hustle)**.
 > Full multi-category list: [aiworkhard-free-resources](https://github.com/dragonkin/aiworkhard-free-resources)
-> Live site: **[AI很忙](https://www.aiworkhard.com/)** · **26** entries
+> Live site: **[AI很忙](https://www.aiworkhard.com/)** · **25** entries
 
-### Free (26)
+### Free (25)
 
 - [ASC Computer Solutions 加拿大免费 VPS：1核512M/16GB/IPv6·每30天免费续 · 现售罄等补货](https://www.aiworkhard.com/a/162) `已核实 · 售罄（等补货）` — 加拿大 ASC Computer Solutions（ASCS，阿尔伯塔 Onoway，自建硬件）的免费档容器：1核/512MB/16GB SSD/公网 IPv6。每 30 天一周…
-- [腾讯 LightVela 新用户免费体验 1 个月：2核8G 云端 Agent，送 4500 AI 积分](https://www.aiworkhard.com/a/151) `已核实 · 限时免费` — 腾讯轻量云出的云端 Agent 托管服务：把 AI Agent 放在云上 7×24 小时跑，可接入微信、QQ、企业微信、飞书、钉钉。新用户首单免费体验 1 个月。
 - [DataOnline 越南免费主机：1GB 套餐 0 元，长期免费但要续期](https://www.aiworkhard.com/a/144) `已核实 · 需定期续期` — 越南主机商 DataOnline 的 Free Hosting 1GB：1GB NVMe 磁盘、每月 20GB 流量、2 个域名、2 个数据库，0 元，DirectAdmin 面板…
 - [Nodaroo 免费面板实测：免卡给一台德国容器，没 root 也能跑常驻服务](https://www.aiworkhard.com/a/142) `已实测 · 客户端挑版本` — Nodaroo 是免费的游戏服务器面板（翼龙面板），Discord 登录注册，免费档把额度全给一台服务器：200% CPU、6GB 内存、50GB 磁盘，德国机房。它不是 VPS：…
 - [LiberClaw · 免费 AI Agent，底层是台 Aleph Cloud Linux VM：1核2G/20G，可加 SSH 直连（隐藏玩法）](https://www.aiworkhard.com/a/140) `已核实 · 免卡 · SSH 玩法有风险` — 免卡注册的自主 AI Agent 平台，每个 Agent 实际跑在一台独立 Aleph Cloud Linux VM 上。免费档 1 个 Agent、20GB 存储、1× comp…
