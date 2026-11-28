@@ -8,34 +8,34 @@
 
 ### 免费服务器大全（29 条）
 
-- [LiveTerminal · Cyber Monday 免费 VPS 12 个月 · 4 核 8GB / 赫尔辛基 / 不限流量](https://www.aiworkhard.com/a/169) `已注册 · 升级待确认` — LiveTerminal.ai 黑五活动：新用户注册，Lite 套餐（原价 $9.99/月）免费 12 个月。配置 4 vCPU AMD Ryzen 9 7950X3D（共享）、8…
-- [Layero · 俄罗斯免费部署网站 & 全栈应用：5 项目/月 100 构建/15GB 流量 · 免卡（详细攻略）](https://www.aiworkhard.com/a/167) `已核实 · 免卡` — Layero 俄罗斯免费部署平台：免费档 0 卢布永久、5 个项目、每月 100 次构建、流量 15GB/月、请求 30 万次/月，静态站和 Next.js/Nuxt 等全栈应用都…
-- [NeoHeberg · 免费 VPS 512MB / 5GB SSD 免卡 · 纯 IPv6（看广告攒 Coin 可换独立 IPv4）](https://www.aiworkhard.com/a/166) `已核实 · 免卡` — NeoHeberg 免费 VPS：法国巴黎机房，512MB 内存 / 5GB SSD / 25% vCPU，Debian 13，root 权限；每个账号 1 台免费，不用 Coin…
-- [Beacon.host · 免费部署网站 & Serverless（AI Agent 专属）：不限静态站/10GB/25 Workers/2万次 · 免卡（详细攻略）](https://www.aiworkhard.com/a/165) `已核实 · 免卡` — 面向 AI 代理的免费托管：邮箱验证码注册（免卡）即解锁不限期、数量不限的静态站点、10GB 文件存储、25 个 Workers（每日 2 万请求）、API/Webhook 与密码…
-- [ASC Computer Solutions 加拿大免费 VPS：1核512M/16GB/IPv6·每30天免费续 · 现售罄等补货](https://www.aiworkhard.com/a/162) `已核实 · 售罄（等补货）` — 加拿大 ASC Computer Solutions（ASCS，阿尔伯塔 Onoway，自建硬件）的免费档容器：1核/512MB/16GB SSD/公网 IPv6。每 30 天一周…
-- [DataOnline 越南免费主机：1GB 套餐 0 元，长期免费但要续期](https://www.aiworkhard.com/a/144) `已核实 · 需定期续期` — 越南主机商 DataOnline 的 Free Hosting 1GB：1GB NVMe 磁盘、每月 20GB 流量、2 个域名、2 个数据库，0 元，DirectAdmin 面板…
-- [Nodaroo 免费面板实测：免卡给一台德国容器，没 root 也能跑常驻服务](https://www.aiworkhard.com/a/142) `已实测 · 客户端挑版本` — Nodaroo 是免费的游戏服务器面板（翼龙面板），Discord 登录注册，免费档把额度全给一台服务器：200% CPU、6GB 内存、50GB 磁盘，德国机房。它不是 VPS：…
-- [LiberClaw · 免费 AI Agent，底层是台 Aleph Cloud Linux VM：1核2G/20G，可加 SSH 直连（隐藏玩法）](https://www.aiworkhard.com/a/140) `已核实 · 免卡 · SSH 玩法有风险` — 免卡注册的自主 AI Agent 平台，每个 Agent 实际跑在一台独立 Aleph Cloud Linux VM 上。免费档 1 个 Agent、20GB 存储、1× comp…
-- [Altare · 永久免费云服务器：6G 内存 + 150% CPU，最多开 4 台](https://www.aiworkhard.com/a/138) `已核实 · 免卡` — Altare（altare.gg）是“agentic cloud”平台，每个团队免费一个资源包：6 GB 内存、150% CPU（1.5 核）、10 GB 磁盘，最多开 4 台服务…
-- [Abasthan · 新 PaaS 首个应用免费：Node/Python/Go/PHP 免卡部署](https://www.aiworkhard.com/a/132) `已核实 · 免卡` — Abasthan 是新上线的 PaaS（印度团队，自研裸金属云），Beta 已开放：每个账号第一个应用免费（$0、免绑卡），支持 Node.js（18/20/22）、Python、…
-- [Cloudzyro · 免费建站托管 Launch 档 $0 永久 · 1 核 512MB / 月 100GB 流量](https://www.aiworkhard.com/a/123) `已实测 · 免卡` — Cloudzyro 免费网站/应用托管，Launch 档 $0 永久、不是试用，商业用途允许；每站 1 vCPU / 512MB 内存、月流量 100GB；免费绑自定义域名（每站 …
-- [velixir · 永久免费跑一个 Web 应用（免卡）](https://www.aiworkhard.com/a/118) `已核实 · 免卡` — 欧洲云平台 velixir 的免费档：永久免费、不用绑卡，跑一个真实的长驻后端（任意语言，Git push 上线约 1 分钟），0.25 vCPU / 256MB 内存 / 1GB…
-- [Uppcoder 免费容器 · Spark 永久免费免绑卡](https://www.aiworkhard.com/a/117) `已实测 · 免卡` — Uppcoder 云端开发平台免费档 Spark：永久免费、免绑卡，2GB 内存、2GB 磁盘、每天 500 CPU 秒；浏览器里直接用 VS Code 写代码，带终端和 SSH，…
-- [NatBox 免费试用 1 个月 NAT VPS · 德国](https://www.aiworkhard.com/a/115) `已核实 · 限时试用（目前名额已满）` — 新用户免费试用一台 NAT VPS 小服务器 1 个月——注意是免费试用，不是永久免费：Incus LXC 容器，root 权限 SSH 登录，60 秒内开通，服务器在德国 Con…
-- [Box by Simular · 免费云电脑（给 AI 用的 Ubuntu 桌面）](https://www.aiworkhard.com/a/100) `已核实 · 免卡` — Simular 出的 box：给 AI 一台云上的 Linux 桌面电脑——Ubuntu 桌面 + Chrome + Shell，AI 通过 MCP 远程操作它：打开浏览器、点鼠标…
-- [InfinityFree · 永久免费虚拟主机](https://www.aiworkhard.com/a/61) `已核实 · 免卡` — 老牌免费虚拟主机，官网写明 Free forever、不是试用、免卡，邮箱注册就能建站，支持 PHP/MySQL 和免费 SSL。
-- [NodeLoc NODEPEND · 拨测换 CDN 流量](https://www.aiworkhard.com/a/38) `测试中 · 已核实` — NodeLoc 的 NODEPEND 拨测计划（2026-11-07 公告，目前还在测试中）：在自己的设备上装一个拨测 agent，帮平台从你的网络位置做连通性拨测，换 CDN 流…
-- [Deno Deploy 免费层](https://www.aiworkhard.com/a/32) `可用 · 需再核` — JS/TS 边缘部署平台，部署快，适合小 API 和脚本服务。
-- [Render 免费 Web 服务](https://www.aiworkhard.com/a/31) `可用 · 需再核` — 能部署 Web 服务和静态站，有免费实例，适合演示和小服务。
-- [Supabase 免费层 · 数据库+登录](https://www.aiworkhard.com/a/30) `可用 · 需再核` — 开源后端平台：Postgres 数据库、用户登录、存储打包给，免费层适合小应用。
-- [Netlify 免费层部署](https://www.aiworkhard.com/a/29) `可用 · 需再核` — 静态站和前端项目的老牌免费部署，拖拽上传也能发站。
-- [Vercel Hobby 免费部署](https://www.aiworkhard.com/a/28) `可用 · 需再核` — 前端站点和 Next.js 项目的免费部署档，个人项目够用。
-- [Cloudflare Workers 免费层](https://www.aiworkhard.com/a/27) `可用 · 需再核` — 在 Cloudflare 边缘网络跑小函数/小站的免费层，适合轻量 API 和转发。
-- [Royal Server 免费虚拟主机](https://www.aiworkhard.com/a/14) `已关闭公开申请` — 免费虚拟主机，适合放静态站和练手。2026 年 11 月 6 日前后官方宣布：免费套餐已对公众关闭，原因是 3 天内收到 130 多个不存在的子域名/域名的订单；已注册在用的账号继…
-- [VIPServer 免费 2H2G](https://www.aiworkhard.com/a/13) `已下线` — 已领用 2 个月的美国免费 VPS，靠每月发帖续期。本期已于 2026-11-10 19:11 到期，未提交续期，按规则作下线处理。
-- [Serv00 免费托管](https://www.aiworkhard.com/a/12) `审核排队中` — 老牌免费托管，注册走人工审核。
-- [Zerops Lightweight 免费套餐](https://www.aiworkhard.com/a/11) `可用 · 已实测` — 已部署并真机验收通过的第二个免费部署平台。
-- [Oracle 永久免费](https://www.aiworkhard.com/a/9) `已核实 · 需绑卡` — 大厂永久免费档，配置给得大方，是重点备选。
-- [Cloady 永久免费档](https://www.aiworkhard.com/a/8) `可用 · 已实测` — 能跑长驻小服务的免费档，本站同类项目已实测部署成功。
+- [LiveTerminal · Cyber Monday 免费 VPS 12 个月 · 4 核 8GB / 赫尔辛基 / 不限流量](https://www.aiworkhard.com/a/169) `已注册 · 升级待确认` — LiveTerminal.ai 黑五活动：新用户注册，Lite 套餐（原价 $9.99/月）免费 12 个月。配置 4 vCPU AMD Ryzen 9 7950X3D（共享）、8… · 11-28
+- [Layero · 俄罗斯免费部署网站 & 全栈应用：5 项目/月 100 构建/15GB 流量 · 免卡（详细攻略）](https://www.aiworkhard.com/a/167) `已核实 · 免卡` — Layero 俄罗斯免费部署平台：免费档 0 卢布永久、5 个项目、每月 100 次构建、流量 15GB/月、请求 30 万次/月，静态站和 Next.js/Nuxt 等全栈应用都… · 11-27
+- [NeoHeberg · 免费 VPS 512MB / 5GB SSD 免卡 · 纯 IPv6（看广告攒 Coin 可换独立 IPv4）](https://www.aiworkhard.com/a/166) `已核实 · 免卡` — NeoHeberg 免费 VPS：法国巴黎机房，512MB 内存 / 5GB SSD / 25% vCPU，Debian 13，root 权限；每个账号 1 台免费，不用 Coin… · 11-27
+- [Beacon.host · 免费部署网站 & Serverless（AI Agent 专属）：不限静态站/10GB/25 Workers/2万次 · 免卡（详细攻略）](https://www.aiworkhard.com/a/165) `已核实 · 免卡` — 面向 AI 代理的免费托管：邮箱验证码注册（免卡）即解锁不限期、数量不限的静态站点、10GB 文件存储、25 个 Workers（每日 2 万请求）、API/Webhook 与密码… · 11-27
+- [ASC Computer Solutions 加拿大免费 VPS：1核512M/16GB/IPv6·每30天免费续 · 现售罄等补货](https://www.aiworkhard.com/a/162) `已核实 · 售罄（等补货）` — 加拿大 ASC Computer Solutions（ASCS，阿尔伯塔 Onoway，自建硬件）的免费档容器：1核/512MB/16GB SSD/公网 IPv6。每 30 天一周… · 11-25
+- [DataOnline 越南免费主机：1GB 套餐 0 元，长期免费但要续期](https://www.aiworkhard.com/a/144) `已核实 · 需定期续期` — 越南主机商 DataOnline 的 Free Hosting 1GB：1GB NVMe 磁盘、每月 20GB 流量、2 个域名、2 个数据库，0 元，DirectAdmin 面板… · 11-23
+- [Nodaroo 免费面板实测：免卡给一台德国容器，没 root 也能跑常驻服务](https://www.aiworkhard.com/a/142) `已实测 · 客户端挑版本` — Nodaroo 是免费的游戏服务器面板（翼龙面板），Discord 登录注册，免费档把额度全给一台服务器：200% CPU、6GB 内存、50GB 磁盘，德国机房。它不是 VPS：… · 11-23
+- [LiberClaw · 免费 AI Agent，底层是台 Aleph Cloud Linux VM：1核2G/20G，可加 SSH 直连（隐藏玩法）](https://www.aiworkhard.com/a/140) `已核实 · 免卡 · SSH 玩法有风险` — 免卡注册的自主 AI Agent 平台，每个 Agent 实际跑在一台独立 Aleph Cloud Linux VM 上。免费档 1 个 Agent、20GB 存储、1× comp… · 11-23
+- [Altare · 永久免费云服务器：6G 内存 + 150% CPU，最多开 4 台](https://www.aiworkhard.com/a/138) `已核实 · 免卡` — Altare（altare.gg）是“agentic cloud”平台，每个团队免费一个资源包：6 GB 内存、150% CPU（1.5 核）、10 GB 磁盘，最多开 4 台服务… · 11-23
+- [Abasthan · 新 PaaS 首个应用免费：Node/Python/Go/PHP 免卡部署](https://www.aiworkhard.com/a/132) `已核实 · 免卡` — Abasthan 是新上线的 PaaS（印度团队，自研裸金属云），Beta 已开放：每个账号第一个应用免费（$0、免绑卡），支持 Node.js（18/20/22）、Python、… · 11-23
+- [Cloudzyro · 免费建站托管 Launch 档 $0 永久 · 1 核 512MB / 月 100GB 流量](https://www.aiworkhard.com/a/123) `已实测 · 免卡` — Cloudzyro 免费网站/应用托管，Launch 档 $0 永久、不是试用，商业用途允许；每站 1 vCPU / 512MB 内存、月流量 100GB；免费绑自定义域名（每站 … · 11-13
+- [velixir · 永久免费跑一个 Web 应用（免卡）](https://www.aiworkhard.com/a/118) `已核实 · 免卡` — 欧洲云平台 velixir 的免费档：永久免费、不用绑卡，跑一个真实的长驻后端（任意语言，Git push 上线约 1 分钟），0.25 vCPU / 256MB 内存 / 1GB… · 11-10
+- [Uppcoder 免费容器 · Spark 永久免费免绑卡](https://www.aiworkhard.com/a/117) `已实测 · 免卡` — Uppcoder 云端开发平台免费档 Spark：永久免费、免绑卡，2GB 内存、2GB 磁盘、每天 500 CPU 秒；浏览器里直接用 VS Code 写代码，带终端和 SSH，… · 11-23
+- [NatBox 免费试用 1 个月 NAT VPS · 德国](https://www.aiworkhard.com/a/115) `已核实 · 限时试用（目前名额已满）` — 新用户免费试用一台 NAT VPS 小服务器 1 个月——注意是免费试用，不是永久免费：Incus LXC 容器，root 权限 SSH 登录，60 秒内开通，服务器在德国 Con… · 11-15
+- [Box by Simular · 免费云电脑（给 AI 用的 Ubuntu 桌面）](https://www.aiworkhard.com/a/100) `已核实 · 免卡` — Simular 出的 box：给 AI 一台云上的 Linux 桌面电脑——Ubuntu 桌面 + Chrome + Shell，AI 通过 MCP 远程操作它：打开浏览器、点鼠标… · 11-23
+- [InfinityFree · 永久免费虚拟主机](https://www.aiworkhard.com/a/61) `已核实 · 免卡` — 老牌免费虚拟主机，官网写明 Free forever、不是试用、免卡，邮箱注册就能建站，支持 PHP/MySQL 和免费 SSL。 · 11-09
+- [NodeLoc NODEPEND · 拨测换 CDN 流量](https://www.aiworkhard.com/a/38) `测试中 · 已核实` — NodeLoc 的 NODEPEND 拨测计划（2026-11-07 公告，目前还在测试中）：在自己的设备上装一个拨测 agent，帮平台从你的网络位置做连通性拨测，换 CDN 流… · 11-09
+- [Deno Deploy 免费层](https://www.aiworkhard.com/a/32) `可用 · 需再核` — JS/TS 边缘部署平台，部署快，适合小 API 和脚本服务。 · 11-09
+- [Render 免费 Web 服务](https://www.aiworkhard.com/a/31) `可用 · 需再核` — 能部署 Web 服务和静态站，有免费实例，适合演示和小服务。 · 11-09
+- [Supabase 免费层 · 数据库+登录](https://www.aiworkhard.com/a/30) `可用 · 需再核` — 开源后端平台：Postgres 数据库、用户登录、存储打包给，免费层适合小应用。 · 11-09
+- [Netlify 免费层部署](https://www.aiworkhard.com/a/29) `可用 · 需再核` — 静态站和前端项目的老牌免费部署，拖拽上传也能发站。 · 11-09
+- [Vercel Hobby 免费部署](https://www.aiworkhard.com/a/28) `可用 · 需再核` — 前端站点和 Next.js 项目的免费部署档，个人项目够用。 · 11-09
+- [Cloudflare Workers 免费层](https://www.aiworkhard.com/a/27) `可用 · 需再核` — 在 Cloudflare 边缘网络跑小函数/小站的免费层，适合轻量 API 和转发。 · 11-09
+- [Royal Server 免费虚拟主机](https://www.aiworkhard.com/a/14) `已关闭公开申请` — 免费虚拟主机，适合放静态站和练手。2026 年 11 月 6 日前后官方宣布：免费套餐已对公众关闭，原因是 3 天内收到 130 多个不存在的子域名/域名的订单；已注册在用的账号继… · 11-14
+- [VIPServer 免费 2H2G](https://www.aiworkhard.com/a/13) `已下线` — 已领用 2 个月的美国免费 VPS，靠每月发帖续期。本期已于 2026-11-10 19:11 到期，未提交续期，按规则作下线处理。 · 11-14
+- [Serv00 免费托管](https://www.aiworkhard.com/a/12) `审核排队中` — 老牌免费托管，注册走人工审核。 · 11-09
+- [Zerops Lightweight 免费套餐](https://www.aiworkhard.com/a/11) `可用 · 已实测` — 已部署并真机验收通过的第二个免费部署平台。 · 11-23
+- [Oracle 永久免费](https://www.aiworkhard.com/a/9) `已核实 · 需绑卡` — 大厂永久免费档，配置给得大方，是重点备选。 · 11-09
+- [Cloady 永久免费档](https://www.aiworkhard.com/a/8) `可用 · 已实测` — 能跑长驻小服务的免费档，本站同类项目已实测部署成功。 · 11-09
 
 > 说明：免费额度和可用性会变，领取步骤与坑点见原站详情页 https://www.aiworkhard.com/a/<编号>。
